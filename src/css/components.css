@@ -1,0 +1,7 @@
+.bookCard {
+  border: 1px solid #ddd; /* Light gray border */
+  border-radius: 8px; /* Rounded corners */
+  padding: 16px; /* Inner spacing */
+  margin: 12px; /* Space between cards */
+  max-width: 250px; /* Optional: control card width */
+}
